@@ -86,15 +86,15 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/laptop-table-displaying-greenscreen_482257-123662.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/laptop-table-displaying-greenscreen_482257-123662.jpg?_wi=1",
           imageAlt: "B2B Marketing Team collaborating on content and ads strategy",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/startup-team-meeting-with-remote-manager_482257-121121.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/startup-team-meeting-with-remote-manager_482257-121121.jpg?_wi=1",
           imageAlt: "Marketing team brainstorming B2B content ideas with whiteboards",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-sitting-desk-analyzing-business-paperwork-working-management-presentation-planning-company-strategy-startup-office-entrepreneur-looking-marketing-documents_482257-27715.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-sitting-desk-analyzing-business-paperwork-working-management-presentation-planning-company-strategy-startup-office-entrepreneur-looking-marketing-documents_482257-27715.jpg?_wi=1",
           imageAlt: "Person optimizing a paid advertising campaign on a laptop",
         },
         {
@@ -160,7 +160,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiling-businesswoman-browsing-internet-touchpad-work_637285-75.jpg",
             imageAlt: "Tablet showing engaging long-form B2B content",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/laptop-table-displaying-greenscreen_482257-123662.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/laptop-table-displaying-greenscreen_482257-123662.jpg?_wi=2",
           imageAlt: "b2b content strategy dashboard mobile",
         },
         {
@@ -174,7 +174,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-psd/business-template-design_23-2150759700.jpg",
             imageAlt: "Laptop showcasing targeted B2B ad creatives",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/startup-team-meeting-with-remote-manager_482257-121121.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/startup-team-meeting-with-remote-manager_482257-121121.jpg?_wi=2",
           imageAlt: "b2b content strategy dashboard mobile",
         },
         {
@@ -188,7 +188,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-applications_1134-123.jpg",
             imageAlt: "Tablet showing B2B audience segmentation and targeting tool",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/businessman-sitting-desk-analyzing-business-paperwork-working-management-presentation-planning-company-strategy-startup-office-entrepreneur-looking-marketing-documents_482257-27715.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/businessman-sitting-desk-analyzing-business-paperwork-working-management-presentation-planning-company-strategy-startup-office-entrepreneur-looking-marketing-documents_482257-27715.jpg?_wi=2",
           imageAlt: "b2b content strategy dashboard mobile",
         },
       ]}
